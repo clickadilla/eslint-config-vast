@@ -1,6 +1,6 @@
 {
-  "name": "@denis-krivosheev/eslint-config-vast",
-  "private": false,
+  "name": "@clickadilla/eslint-config-vast",
+  "private": true,
   "version": "1.0.0",
   "description": "ESLint config for Vue-based VAST projects",
   "main": "index.js",
@@ -9,19 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dkrivosheev/eslint-config-vast.git"
+    "url": "https://github.com/clickadilla/eslint-config-vast.git"
   },
   "keywords": [
     "eslint",
     "config",
     "vast"
   ],
-  "author": "Denis Krivosheev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dkrivosheev/eslint-config-vast/issues"
+    "url": "https://github.com/clickadilla/eslint-config-vast/issues"
   },
-  "homepage": "https://github.com/dkrivosheev/eslint-config-vast#readme",
+  "homepage": "https://github.com/clickadilla/eslint-config-vast#readme",
   "dependencies": {
     "eslint-plugin-vue": "^9.9.0",
     "@vue/eslint-config-airbnb": "^7.0.0"
